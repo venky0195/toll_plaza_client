@@ -1,7 +1,24 @@
 # Toll Plaza App
 
+Automating a toll plaza by issuing toll receipts to vehicles. The receipt will include: 
+
+● The vehicle registration number 
+
+● The amount (100 for one-way, 200 for return) 
+
+● The current date and time (Date and Time of issue)
+
+
+# Live Demo : https://toll-plaza.netlify.app/
+
+This project requires backend. Find the project here: https://github.com/venky0195/toll_plaza_server
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Configuration
+
+Change serve to dev when working locally on src/config.js file.
 
 ## Available Scripts
 
