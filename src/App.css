@@ -1,0 +1,15 @@
+.header {
+  background-color: #212121;
+  color: #ffffff;
+}
+.flex-col-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.flex-col-center  > div {
+  margin: 6px;
+}
+.mar-1-rem{
+  margin: 1rem;
+}
